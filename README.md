@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://i.imgur.com/vKA8MtZ.gif" alt="Remember" />
+  <img src="https://i.imgur.com/vKA8MtZ.gif" alt="Remember"  float=inherit/>
 </div>
 
 
