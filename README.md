@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Mansour-Hz/Mansour-Hz/blob/main/SYFY.gif?raw=true" width="400" height="400" />
+<img src="https://i.imgur.com/vKA8MtZ.gif?raw=true" width="400" height="400" />
 
