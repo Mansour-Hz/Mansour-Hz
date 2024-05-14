@@ -1,4 +1,4 @@
-### Hi there 👋
+### That's It
 
 <!--
 **Mansour-Hz/Mansour-Hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; justify-content: center;">
-  <img src="https://i.imgur.com/vKA8MtZ.gif" alt="Alt Text" />
+  <img src="https://i.imgur.com/vKA8MtZ.gif" alt="Remember" />
 </div>
 
 
