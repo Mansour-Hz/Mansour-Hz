@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<p align="center">
   <img src="https://i.imgur.com/vKA8MtZ.gif" alt="Remember"  float=inherit/>
-</div>
+</p>
 
 
 
